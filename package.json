@@ -1,0 +1,10 @@
+{
+  "name": "arez-music-player",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AREZ Music Player (AMP) - a modern, minimal, responsive music player built with vanilla HTML, CSS, and JavaScript.",
+  "scripts": {
+    "dev": "npx --yes serve@14 -l 3000 -s .",
+    "start": "npx --yes serve@14 -l 3000 -s ."
+  }
+}
