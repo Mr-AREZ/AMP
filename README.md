@@ -1,3 +1,6 @@
+<img src="./AMP-Dark.png" />
+<img src="./AMP-Light.png" />
+
 # AREZ Music Player (AMP)
 
 A modern, minimal, and fully responsive music player built with **vanilla HTML, CSS, and JavaScript** — no frameworks, no build step. Designed to be clean, portfolio-ready, and easy to deploy on **GitHub Pages**.
